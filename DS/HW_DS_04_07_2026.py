@@ -1,3 +1,4 @@
+#Homework 
 # H1) Generate all 3-digit lock combinations
 # Digits: 1,2,3
 # No repetitions
